@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  fakeshopbackend:
+    image: ${DOCKER_REGISTRY-}fakeshopbackend
+    build:
+      context: .
+      dockerfile: Dockerfile

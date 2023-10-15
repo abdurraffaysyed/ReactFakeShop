@@ -1,0 +1,15 @@
+C:\Users\AbduRraffay\Desktop\ReactFakeShopGithub\FakeShopBackend\obj\Debug\netcoreapp2.1\FakeShopBackend.csproj.CoreCompileInputs.cache
+C:\Users\AbduRraffay\Desktop\ReactFakeShopGithub\FakeShopBackend\obj\Debug\netcoreapp2.1\FakeShopBackend.RazorAssemblyInfo.cache
+C:\Users\AbduRraffay\Desktop\ReactFakeShopGithub\FakeShopBackend\obj\Debug\netcoreapp2.1\FakeShopBackend.RazorAssemblyInfo.cs
+C:\Users\AbduRraffay\Desktop\ReactFakeShopGithub\FakeShopBackend\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+C:\Users\AbduRraffay\Desktop\ReactFakeShopGithub\FakeShopBackend\obj\Debug\netcoreapp2.1\FakeShopBackend.AssemblyInfoInputs.cache
+C:\Users\AbduRraffay\Desktop\ReactFakeShopGithub\FakeShopBackend\obj\Debug\netcoreapp2.1\FakeShopBackend.AssemblyInfo.cs
+C:\Users\AbduRraffay\Desktop\ReactFakeShopGithub\FakeShopBackend\obj\Debug\netcoreapp2.1\FakeShopBackend.RazorTargetAssemblyInfo.cache
+C:\Users\AbduRraffay\Desktop\ReactFakeShopGithub\FakeShopBackend\obj\Debug\netcoreapp2.1\FakeShopBackend.dll
+C:\Users\AbduRraffay\Desktop\ReactFakeShopGithub\FakeShopBackend\obj\Debug\netcoreapp2.1\FakeShopBackend.pdb
+C:\Users\AbduRraffay\Desktop\ReactFakeShopGithub\FakeShopBackend\bin\Debug\netcoreapp2.1\FakeShopBackend.deps.json
+C:\Users\AbduRraffay\Desktop\ReactFakeShopGithub\FakeShopBackend\bin\Debug\netcoreapp2.1\FakeShopBackend.runtimeconfig.json
+C:\Users\AbduRraffay\Desktop\ReactFakeShopGithub\FakeShopBackend\bin\Debug\netcoreapp2.1\FakeShopBackend.runtimeconfig.dev.json
+C:\Users\AbduRraffay\Desktop\ReactFakeShopGithub\FakeShopBackend\bin\Debug\netcoreapp2.1\FakeShopBackend.dll
+C:\Users\AbduRraffay\Desktop\ReactFakeShopGithub\FakeShopBackend\bin\Debug\netcoreapp2.1\FakeShopBackend.pdb
+C:\Users\AbduRraffay\Desktop\ReactFakeShopGithub\FakeShopBackend\obj\Debug\netcoreapp2.1\FakeShopBackend.csproj.AssemblyReference.cache
