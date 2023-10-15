@@ -1,0 +1,5 @@
+C:\Users\AbduRraffay\Desktop\ReactFakeShopGithub\FakeShopBackend\bin\Debug\FakeShopBackend.dll
+C:\Users\AbduRraffay\Desktop\ReactFakeShopGithub\FakeShopBackend\bin\Debug\FakeShopBackend.pdb
+C:\Users\AbduRraffay\Desktop\ReactFakeShopGithub\FakeShopBackend\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\AbduRraffay\Desktop\ReactFakeShopGithub\FakeShopBackend\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\AbduRraffay\Desktop\ReactFakeShopGithub\FakeShopBackend\obj\Debug\docker-compose.dcproj.CopyComplete

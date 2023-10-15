@@ -1,0 +1,39 @@
+name: dockercompose3856925928318369901
+services:
+  fakeshopbackend:
+    build:
+      context: C:\Users\AbduRraffay\Desktop\ReactFakeShopGithub\FakeShopBackend
+      dockerfile: Dockerfile
+    container_name: shop
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+      ASPNETCORE_HTTPS_PORT: "44309"
+      ASPNETCORE_URLS: https://+:443;http://+:80
+    image: fakeshopbackend
+    networks:
+      default: null
+    ports:
+      - mode: ingress
+        target: 80
+        published: "8090"
+        protocol: tcp
+      - mode: ingress
+        target: 443
+        published: "44309"
+        protocol: tcp
+    volumes:
+      - type: bind
+        source: C:\Users\AbduRraffay\AppData\Roaming/Microsoft/UserSecrets
+        target: /root/.microsoft/usersecrets
+        read_only: true
+        bind:
+          create_host_path: true
+      - type: bind
+        source: C:\Users\AbduRraffay\AppData\Roaming/ASP.NET/Https
+        target: /root/.aspnet/https
+        read_only: true
+        bind:
+          create_host_path: true
+networks:
+  default:
+    name: dockercompose3856925928318369901_default
